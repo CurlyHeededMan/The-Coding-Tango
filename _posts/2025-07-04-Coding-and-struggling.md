@@ -1,6 +1,8 @@
 ---
-Title: "Coding and struggling"
-Date: 2025-07-04
+layout: post
+title: "The Dance Begins"
+date: 2025-07-04 17:00:00 -0000
+categories: journal stattrack
 ---
 #Coding studies completed today
 
