@@ -6,6 +6,7 @@
   </h1>
 <p>This page is a record of my coding journey so far. I aim to record my progress as I go: courses completed, certifications gained as well as projects worked on.
   </p> 
+<h2>Posts</h2>
 <p>If you want to get in touch then reach out to me via my GitHub account.
   </p> 
     </head>
