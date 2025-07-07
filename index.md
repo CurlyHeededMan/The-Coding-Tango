@@ -18,7 +18,7 @@
 <li>Completed Github skills-communicate-using-markdown</li>
 <li>Completed Github skills-github-pages (Hence why we have this shiny new site to log everything yay!)</li>
   </ol>
-<p>I don't know how to code but I would like to. I never studied it in college and I've always had a strong interest in the tech industry. So I aim to self learn with online resources. Wish me luck.</p></ul>
+<p>I don't know how to code but I would like to. I never studied it in college and I've always had a strong interest in the tech industry. So I aim to self learn with online resources. Wish me luck.</p>
 
 <h2>Contact me</h2>
 
